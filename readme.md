@@ -1,6 +1,5 @@
 #  Ananta Kadel — Developer & Data Enthusiast
 
-![Profile views](https://komarev.com/ghpvc/?username=Anantakadel&color=blueviolet&style=flat)
 
 ##  About Me
 - Bachelor in Information Technology (7th Semester) at Patan Multiple Campus
