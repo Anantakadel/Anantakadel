@@ -1,30 +1,26 @@
-# Ananta Kadel — IT Support & Technology Enthusiast
+# Ananta Kadel — IT Support | Networking | Linux
 
 ## About Me
-- Bachelor in Information Technology (BIT) from Patan Multiple Campus
-- Working in IT Support with experience in technical support and IT infrastructure.
-- Focused on Networking, Linux System Administration, and Cybersecurity.
-- Exploring Python, JavaScript, and Data Analytics.
-- Currently developing technical solutions and exploring automation with n8n.
-- Always learning new technologies, tools, and practical skills.
-- Secret about me: Crazy about tech and tools.
+- Bachelor of Information Technology (BIT) graduate from Patan Multiple Campus, Tribhuvan University.
+- IT Support professional with hands-on experience in technical support and IT infrastructure.
+- Experienced in troubleshooting hardware, software, operating systems, and network-related issues.
+- Interested in Linux System Administration, Networking, Cybersecurity, and Infrastructure Engineering.
+- Exploring automation, Python scripting, and infrastructure technologies.
+- Passionate about learning how technology works and building practical solutions.
 
 ---
 
 ## Tech Stack
 ```bash
-Languages & Tools:
-```
-```python
 # Networking & Security
 TCP/IP • LAN/WAN • DNS • DHCP • VPN
-FortiGate • Microsoft Defender for Business
+FortiGate Firewall • Microsoft Defender for Business
 
 # Operating Systems
 Windows • Ubuntu • Fedora • CentOS/RHEL
 
-# Programming
-Python • SQL • HTML/CSS • JavaScript
+# Programming & Scripting
+Python • SQL • JavaScript • HTML/CSS
 
 # Data & Analytics
 Excel • Power BI • NumPy • Pandas
@@ -37,23 +33,32 @@ Django • Git • GitHub • VS Code • PyCharm • n8n
 ---
 
 ## Notable Projects
+
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| Built Website | Django | Customizable website using Django as a base. |
-| AI Assistant | Python, Speech Recognition | Voice-controlled automation assistant. |
-| E-commerce Site | HTML/CSS/JS | Responsive frontend with planned Django backend. |
-| Password Generator | Python, secrets | Secure password generator with custom parameters. |
-| Calculator App | Python, Tkinter | GUI calculator application. |
-| Typing Speed Test | Python, Tkinter | WPM calculator with accuracy metrics. |
+| Portfolio Website | HTML, CSS, JavaScript | Personal portfolio showcasing my skills and projects. |
+| AI Assistant | Python, Speech Recognition | Voice-controlled assistant for basic automation tasks. |
+| Django Website | Python, Django | Customizable web application built using Django. |
+| E-commerce Site | HTML, CSS, JavaScript | Responsive frontend e-commerce application. |
+| Password Generator | Python, secrets | Secure password generator with customizable parameters. |
+| Typing Speed Test | Python, Tkinter | Desktop application measuring typing speed and accuracy. |
+
+---
+
+## Currently Exploring
+- Linux System Administration
+- Networking and Network Security
+- Python Scripting and Automation
+- Infrastructure Management
 
 ---
 
 ## Let's Connect
-- [Email](mailto:anantakadel01@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/ananta-kadel-943735215)
 - [Portfolio](https://anantakadel.com.np)
 - [GitHub](https://github.com/Anantakadel)
+- [LinkedIn](https://www.linkedin.com/in/ananta-kadel-943735215)
+- [Email](mailto:anantakadel01@gmail.com)
 
 ---
 
-*Crazy about tech, curious about tools, and always building something new.*
+*Curious about technology. Focused on infrastructure. Always learning and building.*
